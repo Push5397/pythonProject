@@ -136,3 +136,5 @@
 #     print(score)
 #
 # calculate_love_score("KANYE west","kim kardashian")
+
+# Learning functions
